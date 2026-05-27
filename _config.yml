@@ -1,0 +1,5 @@
+title: "Agentic Systems for Molecular Sciences — ELLIS ML4Molecules 2026"
+description: "NeurIPS 2026 workshop, Paris, 12–13 December."
+baseurl: "/workshop2026"
+theme: minima
+plugins: [jekyll-seo-tag]
