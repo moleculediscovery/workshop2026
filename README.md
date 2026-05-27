@@ -1,4 +1,4 @@
-# Agentic Systems for Molecular Sciences -- A NeurIPS Europe Workshop Proposal
+## Agentic Systems for Molecular Sciences -- A NeurIPS Europe Workshop Proposal
 **From in-silico chemists and closed-loop labs to failures at counting carbons**  
 📍 Paris · 🗓️ December 12/13 ·
 
