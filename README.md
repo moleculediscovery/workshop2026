@@ -14,6 +14,9 @@ Agentic large language model systems are moving from conversational and coding a
 ## Supporters
 The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz) and the [ELLIS unit Cambridge](https://ellis.eu/research/sites/unit-cambridge).
 ## Speakers
+- Francesca Grisoni
+- Kevin Jablonka
+- Yanyan Lan
 - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
 - [Jean-Philippe Vert, Bioptimus](https://jpvert.github.io/)
 - *More to be announced soon.*
