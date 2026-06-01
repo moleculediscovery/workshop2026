@@ -19,6 +19,7 @@ The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/res
 - Yanyan Lan
 - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
 - [Jean-Philippe Vert, Bioptimus](https://jpvert.github.io/)
+- Philippe Schwaller
 - *More to be announced soon.*
 
 ## Contact
