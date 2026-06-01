@@ -8,7 +8,7 @@ Agentic large language model systems are moving from conversational and coding a
 ## Organizers
 - [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
 - [Marwin Segler](https://www.microsoft.com/en-us/research/people/marwinsegler/)
-- [ELLIS ML4Molecules program](https://ellis.eu/programs/machine-learning-for-molecule-discovery)
+- [Ola Engkvist](https://ellis.eu/person/ola-engkvist)
 
 
 ## Supporters
