@@ -7,12 +7,12 @@ Agentic large language model systems are moving from conversational and coding a
 
 ## Speakers
 - Andrew White
-- Francesca Grisoni
-- Kevin Jablonka
 - Yanyan Lan
+- Francesca Grisoni
 - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
 - [Jean-Philippe Vert, Bioptimus](https://jpvert.github.io/)
 - Philippe Schwaller
+- Janine George
 
 ## Organizers
 - [Nadine Schneider](https://ellis.eu/person/nadine-schneider)
