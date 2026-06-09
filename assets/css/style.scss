@@ -3,6 +3,35 @@
 
 @import "jekyll-theme-minimal";
 
+/* ---- Single-column layout: header banner on top, content below ---- */
+.wrapper { width: auto; max-width: 860px; }
+header, section, footer {
+  float: none;
+  width: auto;
+  position: static;
+}
+header {
+  text-align: center;
+  padding: 2.5rem 0 1.75rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+header h1 {
+  font-size: 2.6rem;
+  line-height: 1.15;
+  margin: 0 0 .5rem;
+}
+header p {
+  font-size: 1.1rem;
+  color: #727272;
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+@media print, screen and (max-width: 480px) {
+  header h1 { font-size: 2rem; }
+}
+
 /* ---- Hero / call to action ---- */
 .hero { margin: 0 0 1.5rem; }
 .hero .meta {
