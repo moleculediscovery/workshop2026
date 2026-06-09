@@ -1,0 +1,81 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* ---- Hero / call to action ---- */
+.hero { margin: 0 0 1.5rem; }
+.hero .meta {
+  color: #727272;
+  font-size: 1rem;
+  margin: .35rem 0 1.1rem;
+}
+.cta {
+  display: inline-block;
+  background: #267CB9;
+  color: #fff !important;
+  padding: .55rem 1.15rem;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.cta:hover { background: #069; }
+
+/* ---- Important dates callout ---- */
+.dates {
+  border: 1px solid #e6e6e6;
+  border-left: 4px solid #267CB9;
+  border-radius: 6px;
+  background: #f8fafc;
+  padding: .8rem 1.15rem;
+  margin: 1.25rem 0;
+}
+.dates h3 { margin-top: 0; }
+.dates ul { margin: .35rem 0 0; padding-left: 1.2rem; }
+.dates li { margin: .25rem 0; }
+
+/* ---- Speaker cards (responsive) ---- */
+.speakers {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.25rem 0;
+}
+.speaker {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.speaker .headshot {
+  flex: 0 0 110px;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.speaker .bio { flex: 1; }
+.speaker .bio h3 { margin: 0 0 .1rem; }
+.speaker .bio .affil {
+  display: block;
+  color: #727272;
+  font-style: italic;
+  font-size: .9rem;
+  margin-bottom: .4rem;
+}
+.speaker .bio p { margin: 0; }
+
+@media print, screen and (max-width: 480px) {
+  .speaker { flex-direction: column; }
+  .speaker .headshot { width: 120px; height: 120px; }
+}
+
+/* ---- Organizers ---- */
+.organizers { line-height: 1.9; }
+
+/* ---- Supporters (understated) ---- */
+.supporters { color: #727272; font-size: .95rem; }
+
+/* ---- Schedule table ---- */
+section table th { background: #f4f6f8; text-align: left; }
+section table td,
+section table th { padding: .5rem .6rem; }

@@ -1,5 +1,6 @@
-title: "Agentic Systems for Molecular Sciences — A NeurIPS Europe 2026 Workshop Proposal"
-description: "NeurIPS 2026 workshop, Paris, 12–13 December."
+title: "Agentic Systems for Molecular Sciences"
+description: "A NeurIPS 2026 Workshop · Paris · Dec 12–13 — from in-silico chemists and closed-loop labs to failures at counting carbons."
 baseurl: "/workshop2026"
-theme: minima
+theme: jekyll-theme-minimal
+show_downloads: false
 plugins: [jekyll-seo-tag]
