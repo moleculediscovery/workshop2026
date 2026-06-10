@@ -1,8 +1,8 @@
-<div class="hero" markdown="0">
-  <p class="meta">🧪 A NeurIPS 2026 Workshop · 📍 Paris · 🗓️ 12–13 December 2026</p>
-  <p><strong>From in-silico chemists and closed-loop labs to failures at counting carbons.</strong></p>
-  <a class="cta" href="#important-dates">📢 Call for Papers</a>
-</div>
+<hr />
+
+Agentic large language model systems are moving from conversational and coding assistants to co-scientists in the molecular sciences, such as planning syntheses, calling domain tools, and closing experimental loops with laboratory automation. Recent demonstrations span autonomous drug repurposing, retrosynthesis, and genome-wide virtual screening, all built on stacks of learned representations, predictors, and simulators. Yet careful benchmarking has exposed striking failures at seemingly simple tasks: tool-augmented agents reach only around 50% accuracy on chemical cost estimation, chemistry language models fail systematic symbolic reasoning on molecular graphs, and single-cell foundation models for perturbation prediction do not outperform linear baselines. This workshop takes the contrast between agentic ambition and methodological fragility as its starting point with explicit space for negative results, rigorous baselines, and benchmark contributions alongside methodological advances.
+
+<hr />
 
 ## Important Dates
 
@@ -15,9 +15,6 @@
 
 Submissions are reviewed on OpenReview. The workshop is non-archival.
 </div>
-
-## Abstract
-Agentic large language model systems are moving from conversational and coding assistants to co-scientists in the molecular sciences, such as planning syntheses, calling domain tools, and closing experimental loops with laboratory automation. Recent demonstrations span autonomous drug repurposing, retrosynthesis, and genome-wide virtual screening, all built on stacks of learned representations, predictors, and simulators. Yet careful benchmarking has exposed striking failures at seemingly simple tasks: tool-augmented agents reach only around 50% accuracy on chemical cost estimation, chemistry language models fail systematic symbolic reasoning on molecular graphs, and single-cell foundation models for perturbation prediction do not outperform linear baselines. This workshop takes the contrast between agentic ambition and methodological fragility as its starting point with explicit space for negative results, rigorous baselines, and benchmark contributions alongside methodological advances.
 
 ## Invited Speakers
 
@@ -80,6 +77,8 @@ Agentic large language model systems are moving from conversational and coding a
   </div>
 </div>
 
+<hr />
+
 ## Organizers
 
 <p class="organizers" markdown="0">
@@ -90,11 +89,7 @@ Agentic large language model systems are moving from conversational and coding a
 <strong><a href="https://www.jku.at/en/institute-for-machine-learning/about-us/team/dr-sohvi-luukkonen/">Sohvi Luukkonen</a></strong>, <em>ELLIS Unit Linz &amp; Johannes Kepler University Linz</em>
 </p>
 
-## Supporters
-
-<p class="supporters" markdown="1">
-The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz) and the [ELLIS unit Cambridge](https://ellis.eu/research/sites/unit-cambridge).
-</p>
+<hr />
 
 ## Preliminary Schedule
 
@@ -112,6 +107,15 @@ The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/res
 | 16:40 – 17:50 | 70 min   | 🖼️ **Dedicated poster session**                                                                                    |
 | 17:50 – 18:00 | 10 min   | **Closing remarks**                                                                                          |
 
+<hr />
+
+## Supporters
+
+<p class="supporters" markdown="1">
+The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz) and the [ELLIS unit Cambridge](https://ellis.eu/research/sites/unit-cambridge).
+</p>
+
+<hr />
+
 ## Contact
-For questions about the workshop, contact the organizers at
-[klambauer@ml.jku.at](mailto:klambauer@ml.jku.at) or [luukkonen@ml.jku.at](mailto:luukkonen@ml.jku.at).
+For questions about the workshop, contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at).
