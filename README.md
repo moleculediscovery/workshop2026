@@ -91,17 +91,17 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
 
 <hr />
 
-## Preliminary Schedule
+## Preliminary Schedule (subject to changes)
 
 | Time          | Duration | Session                                                                                                                                  |
 |---------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00 – 9:10   | 10 min   | **Opening remarks**                                                                        |
-| 9:10 – 10:20  | 70 min   | **Block 1**: 2 invited talks (20 min each) + 1 contributed talk (10 min) + **30 min discussion** |
+| 9:10 – 10:20  | 70 min   | **Block 1**: 2 invited talks (20 min each) + 1 contributed talk (10 min) + **20 min discussion** |
 | 10:20 – 10:50 | 30 min   | ☕ **Morning coffee break & posters on display**                                                                                        |
-| 10:50 – 12:00 | 70 min   | **Block 2**: 2 invited (20 min) + 1 contributed (10 min) + **30 min discussion**                    |
+| 10:50 – 12:00 | 70 min   | **Block 2**: 2 invited (20 min) + 1 contributed (10 min) + **20 min discussion**                    |
 | 12:00 – 13:00 | 60 min   | 🍽️ **Lunch break & posters on display**                                                                                               |
-| 13:00 – 14:10 | 70 min   | **Block 3**: 2 invited (20 min) + 1 contributed (10 min) + **30 min discussion**                         |
-| 14:10 – 15:10 | 60 min   | **Block 4**: 1 invited (20 min) + 1 best-paper talk (15 min) + 1 contributed (10 min) + **15 min discussion** |
+| 13:00 – 14:10 | 70 min   | **Block 3**: 2 invited (20 min) + 1 contributed (10 min) + **20 min discussion**                         |
+| 14:10 – 15:10 | 60 min   | **Block 4**: 1 invited (20 min) + 1 best-paper talk (10 min) + 1 contributed (10 min) + **20 min discussion** |
 | 15:10 – 15:40 | 30 min   | ☕ **Afternoon coffee break & posters on display**                                                                                   |
 | 15:40 – 16:40 | 60 min   | 🎙️ **Panel discussion**                                            |
 | 16:40 – 17:50 | 70 min   | 🖼️ **Dedicated poster session**                                                                                    |
