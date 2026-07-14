@@ -32,7 +32,7 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
     <div class="bio">
       <h3><a href="https://www.tue.nl/en/research/researchers/francesca-grisoni">Francesca Grisoni</a></h3>
       <span class="affil">TU Eindhoven</span>
-      <p>Assistant Professor leading the Molecular Machine Learning team, bridging AI and the wet-lab for drug discovery.</p>
+      <p>Associate Professor leading the Molecular Machine Learning team, bridging AI and the wet-lab for drug discovery.</p>
     </div>
   </div>
   <div class="speaker">
