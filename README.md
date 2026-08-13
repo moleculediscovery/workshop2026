@@ -30,7 +30,7 @@ Contributions that clarify what current methods **can and cannot** do, including
 
 ### Submission guidelines
 
-**Format.** Submissions must use the [NeurIPS 2026 workshop LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip). The main text is limited to **5 content pages**, including all figures and tables. References and appendices do not count toward the page limit, but reviewers are not obliged to read supplementary material — the main text must be self-contained. Maximum file size: 50 MB.
+**Format.** Submissions must use the [NeurIPS 2026 workshop LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip). The main text is limited to maximum **5 content pages**, including all figures and tables. References and appendices do not count toward the page limit, but reviewers are not obliged to read supplementary material — the main text must be self-contained. The NeurIPS checklist is not required. Maximum file size: 50 MB.
 
 **Anonymity.** Reviewing is **double-blind**. Submissions must be anonymized, with author names, affiliations, and acknowledgments removed, and prior work cited in the third person.
 
