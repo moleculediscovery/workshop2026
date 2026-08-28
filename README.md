@@ -45,10 +45,10 @@ Contributions that clarify what current methods **can and cannot** do, including
 
 <div class="dates" markdown="1">
 - **Call for papers:** mid-July 2026
-- **Submission deadline:** 29 August 2026
-- **Reviewing:** 30 August – 25 September 2026
+- **Submission deadline:** 29 August 2026 (AOE)
+- **Reviewing:** 30 August – 24 September 2026
 - **Author notification:** 29 September 2026
-- **Workshop:** 12–13 December 2026 · Paris
+- **Workshop:** 12 or13 December 2026 · Paris
 
 Submissions are reviewed on OpenReview. The workshop is non-archival.
 </div>
