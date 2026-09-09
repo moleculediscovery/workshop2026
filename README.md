@@ -154,5 +154,8 @@ The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/res
 
 <hr />
 
+## Sponsors
+Contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at) to support this workshop.
+
 ## Contact
 For questions about the workshop, contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at).
