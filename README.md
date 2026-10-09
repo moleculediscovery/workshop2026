@@ -159,7 +159,7 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
   <div class="organizer-card">
     <img class="headshot" src="./assets/johannes_schimuneck.jpg" alt="Johannes Schimunek" />
     <h3><a href="https://johannes-schimunek.de/">Johannes Schimunek</a></h3>
-    <span class="affil">Cambridge University</span>
+    <span class="affil">University of Cambridge</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/michael_b.jpg" alt="Michael Backenköhler" />
