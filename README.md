@@ -6,7 +6,7 @@ Agentic large language model systems are moving from conversational and coding a
 
 ## Call for Papers
 
-We invite submissions to **Agentic Systems for Molecular Sciences**, a NeurIPS 2026 workshop taking place in Paris on 12 or 13 December.
+We invite submissions to **Agentic Systems for Molecular Sciences**, a NeurIPS 2026 workshop taking place in Paris on 13 December.
 
 Agentic systems are only as good as the representations, predictors, generative models, and simulators they orchestrate. Progress on the agentic frontier depends on progress in the underlying machine learning methods, and on honest evaluation of both. We invite submissions across the full stack, from foundational methods to end-to-end agents, including negative results, careful baselines, and benchmark contributions alongside methodological advances. We welcome participation from machine learning researchers, chemists, biologists, materials scientists, and interdisciplinary practitioners, and encourage submissions from early-career and underrepresented authors.
 
@@ -104,30 +104,73 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
       <p>Assistant Professor leading the Laboratory of Artificial Chemical Intelligence; AI-accelerated synthesis and chemical reasoning.</p>
     </div>
   </div>
-  <div class="speaker">
-    <img class="headshot" src="./assets/janine_george.jpg" alt="Janine George" />
-    <div class="bio">
-      <h3><a href="https://jageo.github.io/about/">Janine George</a></h3>
-      <span class="affil">FSU Jena &amp; BAM Berlin</span>
-      <p>Professor of Materials Informatics; data-driven materials discovery combining high-throughput DFT and machine learning.</p>
-    </div>
-  </div>
 </div>
 
 <hr />
 
 ## Organizers
 
-<p class="organizers" markdown="0">
-<strong><a href="https://ellis.eu/person/nadine-schneider">Nadine Schneider</a></strong>, <em>Novartis</em><br />
-<strong><a href="https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/">Günter Klambauer</a></strong>, <em>ELLIS Unit Linz &amp; Johannes Kepler University Linz</em><br />
-<strong><a href="https://www.chalmers.se/en/persons/olae/">Ola Engkvist</a></strong>, <em>AstraZeneca &amp; Chalmers University of Technology</em><br />
-<strong><a href="https://www.microsoft.com/en-us/research/people/marwinsegler/">Marwin Segler</a></strong>, <em>Microsoft Research</em><br />
-<strong><a href="https://www.jku.at/en/institute-for-machine-learning/about-us/team/dr-sohvi-luukkonen/">Sohvi Luukkonen</a></strong>, <em>ELLIS Unit Linz &amp; Johannes Kepler University Linz</em>
-</p>
+<div class="organizers" markdown="0">
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/guenter_klambauer.jpg" alt="Günter Klambauer" />
+    <h3><a href="https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/">Günter Klambauer</a></h3>
+    <span class="affil">ELLIS Unit Linz &amp; Johannes Kepler University Linz</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/marwin_segler.jpeg" alt="Marwin Segler" />
+    <h3><a href="https://www.microsoft.com/en-us/research/people/marwinsegler/">Marwin Segler</a></h3>
+    <span class="affil">Microsoft Research</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/nadine_schneider.jpg" alt="Nadine Schneider" />
+    <h3><a href="https://ellis.eu/person/nadine-schneider">Nadine Schneider</a></h3>
+    <span class="affil">Novartis</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/ola_engkvist.jpg" alt="Ola Engkvist" />
+    <h3><a href="https://www.chalmers.se/en/persons/olae/">Ola Engkvist</a></h3>
+    <span class="affil">AstraZeneca &amp; Chalmers University of Technology</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/sohvi_luukkonen.jpeg" alt="Sohvi Luukkonen" />
+    <h3><a href="https://www.jku.at/en/institute-for-machine-learning/about-us/team/dr-sohvi-luukkonen/">Sohvi Luukkonen</a></h3>
+    <span class="affil">ELLIS Unit Linz &amp; Johannes Kepler University Linz</span>
+  </div>
+</div>
+
+## Program Committee Chairs
+
+<div class="organizers" markdown="0">
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/alex_mueller.jpg" alt="Alex Müller" />
+    <h3><a href="https://www.linkedin.com/in/alex-t-m%C3%BCller/">Alex Müller</a></h3>
+    <span class="affil">Novartis</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/jana_weber.jpg" alt="Jana M. Weber" />
+    <h3><a href="https://www.linkedin.com/in/jana-marie-weber-a260081b0/">Jana M. Weber</a></h3>
+    <span class="affil">Delft University of Technology</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/jianzhen_he.jpg" alt="Jianzhen He" />
+    <h3><a href="https://scholar.google.com/citations?user=C7C08CMAAAAJ&amp;hl=en">Jianzhen He</a></h3>
+    <span class="affil">AstraZeneca</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/johannes_schimuneck.jpg" alt="Johannes Schimunek" />
+    <h3><a href="https://johannes-schimunek.de/">Johannes Schimunek</a></h3>
+    <span class="affil">Cambridge University</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/michael_b.jpg" alt="Michael Backenköhler" />
+    <h3><a href="https://volkamerlab.org/team/">Michael Backenköhler</a></h3>
+    <span class="affil">Saarland University</span>
+  </div>
+</div>
 
 <hr />
 
+<!--
 ## Preliminary Schedule (subject to changes)
 
 | Time          | Duration | Session                                                                                                                                  |
@@ -145,6 +188,7 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
 | 17:50 – 18:00 | 10 min   | **Closing remarks**                                                                                          |
 
 <hr />
+-->
 
 ## Supporters
 

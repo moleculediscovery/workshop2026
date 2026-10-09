@@ -88,7 +88,38 @@ header {
 }
 
 /* ---- Organizers ---- */
-.organizers { line-height: 1.9; }
+.organizers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.25rem 0;
+}
+.organizer-card {
+  flex: 0 1 calc(33.333% - 1rem);
+  min-width: 0;
+  text-align: center;
+}
+.organizer-card .headshot {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.organizer-card h3 { margin: .5rem 0 .15rem; }
+.organizer-card .affil {
+  display: block;
+  color: #727272;
+  font-style: italic;
+  font-size: .9rem;
+}
+
+@media print, screen and (max-width: 600px) {
+  .organizer-card { flex-basis: calc(50% - .75rem); }
+}
+@media print, screen and (max-width: 400px) {
+  .organizer-card { flex-basis: 100%; }
+}
 
 /* ---- Supporters (understated) ---- */
 .supporters { color: #727272; font-size: .95rem; }
