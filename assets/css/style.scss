@@ -96,7 +96,7 @@ header {
   margin: 1.25rem 0;
 }
 .organizer-card {
-  flex: 0 1 calc(33.333% - 1rem);
+  flex: 0 1 calc(20% - 1.2rem);
   min-width: 0;
   text-align: center;
 }
@@ -114,7 +114,7 @@ header {
   font-size: .9rem;
 }
 
-@media print, screen and (max-width: 600px) {
+@media print, screen and (max-width: 800px) {
   .organizer-card { flex-basis: calc(50% - .75rem); }
 }
 @media print, screen and (max-width: 400px) {
