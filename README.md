@@ -108,6 +108,33 @@ Submissions are reviewed on OpenReview. The workshop is non-archival.
 
 <hr />
 
+## Panelists
+
+<div class="organizers" markdown="0">
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/nadine_schneider.jpg" alt="Nadine Schneider" />
+    <h3><a href="https://ellis.eu/person/nadine-schneider">Nadine Schneider</a></h3>
+    <span class="affil">Novartis (Moderator)</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/andrew_white.jpg" alt="Andrew White" />
+    <h3><a href="https://www.futurehouse.org/team/andrew-white">Andrew White</a></h3>
+    <span class="affil">FuturHouse</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/kevin_jablonka.jpeg" alt="Kevin Jablonka" />
+    <h3><a href="https://kjablonka.com/">Kevin Jablonka</a></h3>
+    <span class="affil">Friedrich Schiller University Jena</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/michael_schaarschmidt.jpeg" alt="Michael Schaarschmidt" />
+    <h3><a href="https://www.michaelschaarschmidt.com/">Michael Schaarschmidt</a></h3>
+    <span class="affil">Isomorphic Labs</span>
+  </div>
+</div>
+
+<hr />
+
 ## Organizers
 
 <div class="organizers" markdown="0">
