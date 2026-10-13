@@ -17,6 +17,11 @@
         <h1 class="site-title">{{ site.title }}</h1>
         <p class="site-subtitle">From in-silico chemists and closed-loop labs to failures at counting carbons.</p>
         <p class="site-meta">A NeurIPS 2026 Workshop · Paris · Dec 13</p>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ '/call-for-papers/' | relative_url }}"{% if page.url == '/call-for-papers/' %} aria-current="page"{% endif %}>Call for Papers</a>
+          <a href="{{ '/venue/' | relative_url }}"{% if page.url == '/venue/' %} aria-current="page"{% endif %}>Venue</a>
+        </nav>
       </header>
       <section>
 

@@ -34,6 +34,21 @@ header {
   margin: 0;
   max-width: none;
 }
+.site-nav {
+  display: flex;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+.site-nav a {
+  padding: .35rem 0;
+  border-bottom: 2px solid transparent;
+  font-weight: 600;
+  text-decoration: none;
+}
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  border-bottom-color: #267CB9;
+}
 
 @media print, screen and (max-width: 480px) {
   .site-title { font-size: 2rem; }
@@ -112,6 +127,12 @@ header {
   color: #727272;
   font-style: italic;
   font-size: .9rem;
+}
+.venue-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.25rem auto;
 }
 
 @media print, screen and (max-width: 800px) {

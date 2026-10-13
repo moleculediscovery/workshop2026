@@ -4,3 +4,4 @@ baseurl: "/workshop2026"
 theme: jekyll-theme-minimal
 show_downloads: false
 plugins: [jekyll-seo-tag]
+exclude: [LOCAL_PREVIEW.md]
