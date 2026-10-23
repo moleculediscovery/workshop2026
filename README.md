@@ -55,6 +55,13 @@ Agentic large language model systems are moving from conversational and coding a
       <p>Assistant Professor leading the Laboratory of Artificial Chemical Intelligence; AI-accelerated synthesis and chemical reasoning.</p>
     </div>
   </div>
+  <div class="speaker">
+    <img class="headshot" src="./assets/jana_weber.jpg" alt="Jana Weber" />
+    <div class="bio">
+      <h3><a href="https://www.linkedin.com/in/jana-marie-weber-a260081b0/">Jana Weber</a></h3>
+      <span class="affil">TU Delft</span>
+      <p>Assistant Professor of AI in Bioscience; machine-learning and network-science methods for sustainable bioprocesses, molecular prediction, and reaction design.</p>>
+  </div>
 </div>
 
 <hr />
@@ -71,6 +78,11 @@ Agentic large language model systems are moving from conversational and coding a
     <img class="headshot" src="./assets/andrew_white.jpg" alt="Andrew White" />
     <h3><a href="https://www.futurehouse.org/team/andrew-white">Andrew White</a></h3>
     <span class="affil">FuturHouse</span>
+  </div>
+  <div class="organizer-card">
+    <img class="headshot" src="./assets/bonnie_kruft.jpg" alt="Andrew White" />
+    <h3><a href="https://www.microsoft.com/en-us/research/people/bonniekruft/">Andrew White</a></h3>
+    <span class="affil">Microsoft</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/kevin_jablonka.jpeg" alt="Kevin Jablonka" />
