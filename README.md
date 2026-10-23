@@ -80,8 +80,8 @@ Agentic large language model systems are moving from conversational and coding a
     <span class="affil">FuturHouse</span>
   </div>
   <div class="organizer-card">
-    <img class="headshot" src="./assets/bonnie_kruft.jpg" alt="Andrew White" />
-    <h3><a href="https://www.microsoft.com/en-us/research/people/bonniekruft/">Andrew White</a></h3>
+    <img class="headshot" src="./assets/bonnie_kruft.jpg" alt="Bonnie Kruft" />
+    <h3><a href="https://www.microsoft.com/en-us/research/people/bonniekruft/">Bonnie Kruft</a></h3>
     <span class="affil">Microsoft</span>
   </div>
   <div class="organizer-card">
