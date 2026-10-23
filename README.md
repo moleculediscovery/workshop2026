@@ -60,7 +60,7 @@ Agentic large language model systems are moving from conversational and coding a
     <div class="bio">
       <h3><a href="https://www.linkedin.com/in/jana-marie-weber-a260081b0/">Jana Weber</a></h3>
       <span class="affil">TU Delft</span>
-      <p>Assistant Professor of AI in Bioscience; machine-learning and network-science methods for sustainable bioprocesses, molecular prediction, and reaction design.</p>>
+      <p>Assistant Professor of AI in Bioscience; machine-learning and network-science methods for sustainable bioprocesses, molecular prediction, and reaction design.</p>
   </div>
 </div>
 
