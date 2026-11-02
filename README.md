@@ -83,7 +83,7 @@ Agentic large language model systems are moving from conversational and coding a
   <div class="organizer-card">
     <img class="headshot" src="./assets/bonnie_kruft.jpg" alt="Bonnie Kruft" />
     <h3><a href="https://www.microsoft.com/en-us/research/people/bonniekruft/">Bonnie Kruft</a></h3>
-    <span class="affil">Microsoft</span>
+    <span class="affil">Microsoft Research</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/kevin_jablonka.jpeg" alt="Kevin Jablonka" />
@@ -120,7 +120,7 @@ Agentic large language model systems are moving from conversational and coding a
   <div class="organizer-card">
     <img class="headshot" src="./assets/ola_engkvist.jpg" alt="Ola Engkvist" />
     <h3><a href="https://www.chalmers.se/en/persons/olae/">Ola Engkvist</a></h3>
-    <span class="affil">AstraZeneca &amp; Chalmers University of Technology</span>
+    <span class="affil">AstraZeneca &amp; Chalmers University of Technology &amp;</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/sohvi_luukkonen.jpg" alt="Sohvi Luukkonen" />
@@ -181,16 +181,27 @@ Agentic large language model systems are moving from conversational and coding a
 <hr />
 -->
 
+## Sponsors
+<!--
+<div class="sponsors" markdown="0">
+  <div class="BASF">
+    <img class="sponsor-logo" src="./assets/sponsors/MicrosoftTeams-image (6) 2.png" alt="BASF"/>
+  </div>
+</div>
+-->
+
+Contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at) to support this workshop.
+
+<hr />
+
 ## Supporters
 
 <p class="supporters" markdown="1">
-The workshop proposal is supported by the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz) and the [ELLIS unit Cambridge](https://ellis.eu/research/sites/unit-cambridge).
+The workshop is supported by the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz), the [ELLIS unit Sweden](https://ellis.eu/research/sites/unit-sweden), and the [ELLIS unit Cambridge](https://ellis.eu/research/sites/unit-cambridge).
 </p>
 
 <hr />
 
-## Sponsors
-Contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at) to support this workshop.
 
 ## Contact
 For questions about the workshop, contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at).
