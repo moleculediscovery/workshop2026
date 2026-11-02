@@ -120,7 +120,7 @@ Agentic large language model systems are moving from conversational and coding a
   <div class="organizer-card">
     <img class="headshot" src="./assets/ola_engkvist.jpg" alt="Ola Engkvist" />
     <h3><a href="https://www.chalmers.se/en/persons/olae/">Ola Engkvist</a></h3>
-    <span class="affil">AstraZeneca &amp; Chalmers University of Technology &amp;</span>
+    <span class="affil">AstraZeneca &amp; Chalmers University of Technology &amp; ELLIS Unit Sweden</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/sohvi_luukkonen.jpg" alt="Sohvi Luukkonen" />
