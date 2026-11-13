@@ -78,7 +78,7 @@ Agentic large language model systems are moving from conversational and coding a
   <div class="organizer-card">
     <img class="headshot" src="./assets/andrew_white.jpg" alt="Andrew White" />
     <h3><a href="https://www.futurehouse.org/team/andrew-white">Andrew White</a></h3>
-    <span class="affil">FuturHouse</span>
+    <span class="affil">FutureHouse</span>
   </div>
   <div class="organizer-card">
     <img class="headshot" src="./assets/bonnie_kruft.jpg" alt="Bonnie Kruft" />
