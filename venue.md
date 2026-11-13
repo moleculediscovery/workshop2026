@@ -4,27 +4,23 @@ title: Venue
 permalink: /venue/
 ---
 
+**Location has changed!**
+
 ## Venue
 
-The workshop will take place at **Sorbonne Université, Pierre and Marie Curie Campus**, [4 Place Jussieu, 75005 Paris](https://www.google.com/maps/search/?api=1&query=Sorbonne+Universite+4+Place+Jussieu+Paris).
+The workshop will take place at **Palais des Congrès de Paris**, [2 Place de la Porte Maillot, 75017 Paris, France](https://maps.app.goo.gl/hWFxCHw9rzpLSxneA).
 
 ### Workshop rooms
 
-- **Talks:** Amphitheater 43
-- **Poster sessions and breaks:** Atrium
+Details on the workshop rooms will be announced shortly.
 
 ### Getting there
 
-The campus is easily accessible by public transport:
+The venue is easily accessible by public transport:
 
-- **Metro:** Lines **7 and 10**, station **Jussieu**, directly next to the campus.
-- **Bus:** Several stops are located around the campus:
-  - **Jussieu:** Lines 67 and 89
-  - **Université IV / Cuvier:** Lines 63 and 89
-  - **Institut du Monde Arabe:** Lines 63, 67, 75, 86, 87 and 89
+- **Metro:** Line **1**, station **Porte Maillot**, exit 3.
+- **RER:** Lines **C and E**, station **Neuilly – Porte Maillot**.
+- **Tram:** Line **T3b**, station **Porte Maillot**.
+- **Bus:** Lines **43, 73, 82, 244 and PC**.
 
-[View nearby public transport stops on the RATP map](https://www.ratp.fr/plan-quartier?address=Jussieu+%28METRO%29%2C+Paris).
-
-### Campus map
-
-<img class="venue-map" src="{{ '/assets/jussieu.svg' | relative_url }}" alt="Map of the Jussieu campus, showing Amphitheater 43 and the Atrium" />
+[View access information and directions on the official venue website](https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en/access).

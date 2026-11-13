@@ -185,7 +185,7 @@ Agentic large language model systems are moving from conversational and coding a
 <!--
 <div class="sponsors" markdown="0">
   <div class="BASF">
-    <img class="sponsor-logo" src="./assets/sponsors/MicrosoftTeams-image (6) 2.png" alt="BASF"/>
+    <img class="sponsor-logo" src="./assets/sponsors/basf.png" alt="BASF"/>
   </div>
 </div>
 -->
