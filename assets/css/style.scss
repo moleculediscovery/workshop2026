@@ -147,11 +147,6 @@ header {
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 800px) {
-  .contributors{
-	flex-direction: column;
-  }
-}
 .contributors{
   align-items: center;
   display: inline-flex;
@@ -159,6 +154,12 @@ header {
   gap: 1.5rem;        
   justify-content: center;
   margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 800px) {
+  .contributors{
+	flex-direction: column;
+  }
 }
 
 .contributors-logo {
