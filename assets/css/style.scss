@@ -143,12 +143,16 @@ header {
 }
 
 /* ---- Contributors ---- */
+@media screen and (max-width: 800px) {
+	flex-direction: column;
+}
 .contributors{
   align-items: center;
   display: inline-flex;
+  flex-direction: row;
   gap: 1.5rem;        
   justify-content: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .contributors-logo {
