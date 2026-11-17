@@ -185,7 +185,7 @@ Agentic large language model systems are moving from conversational and coding a
 
 <div class="contributors" markdown="0">
   <div class="contributors-logo">
-    <img src="./assets/sponsors/astrazeneca.webmp" alt="AstraZeneca - What science can do" title="AstraZeneca - What science can do"/>
+    <img src="./assets/sponsors/astrazeneca.webp" alt="AstraZeneca - What science can do" title="AstraZeneca - What science can do"/>
   </div>
   <div class="contributors-logo">
     <img src="./assets/sponsors/basf.png" alt="BASF - We create chemistry" title="BASF - We create chemistry"/>
