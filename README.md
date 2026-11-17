@@ -183,9 +183,15 @@ Agentic large language model systems are moving from conversational and coding a
 
 ## Contributors
 
-<div class="sponsors" markdown="0">
-  <div class="BASF">
-    <img class="sponsor-logo" src="./assets/sponsors/basf.png" alt="BASF"/>
+<div class="contributors" markdown="0">
+  <div class="contributors-logo">
+    <img src="./assets/sponsors/astrazeneca.webmp" alt="AstraZeneca - What science can do" title="AstraZeneca - What science can do"/>
+  </div>
+  <div class="contributors-logo">
+    <img src="./assets/sponsors/basf.png" alt="BASF - We create chemistry" title="BASF - We create chemistry"/>
+  </div>
+  <div class="contributors-logo">
+    <img src="./assets/sponsors/novartis.svg" alt="Novartis - Reimagining medicine together" title="Novartis - Reimagining medicine together"/>
   </div>
 </div>
 
