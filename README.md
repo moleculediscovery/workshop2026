@@ -59,7 +59,7 @@ Agentic large language model systems are moving from conversational and coding a
     <img class="headshot" src="./assets/jana_weber.jpg" alt="Jana Weber" />
     <div class="bio">
       <h3><a href="https://www.linkedin.com/in/jana-marie-weber-a260081b0/">Jana Weber</a></h3>
-      <span class="affil">TU Delft</span>
+      <span class="affil">Delft University of Technology</span>
       <p>Assistant Professor of AI in Bioscience; machine-learning and network-science methods for sustainable bioprocesses, molecular prediction, and reaction design.</p>
     </div>
   </div>
@@ -181,14 +181,13 @@ Agentic large language model systems are moving from conversational and coding a
 <hr />
 -->
 
-## Sponsors
-<!--
+## Contributors
+
 <div class="sponsors" markdown="0">
   <div class="BASF">
     <img class="sponsor-logo" src="./assets/sponsors/basf.png" alt="BASF"/>
   </div>
 </div>
--->
 
 Contact us at [ml4molecules@ml.jku.at](mailto:ml4molecules@ml.jku.at) to support this workshop.
 
