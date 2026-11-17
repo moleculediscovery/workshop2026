@@ -191,7 +191,7 @@ Agentic large language model systems are moving from conversational and coding a
     <img src="./assets/sponsors/novartis.svg" alt="Novartis - Reimagining medicine together" title="Novartis - Reimagining medicine together"/>
   </div>
   <div class="contributors-logo">
-    <img src="./assets/sponsors/roche.svg" alt="Roche - Doing now what patients need next" title="Roche - Doing now what patients need next"/>
+    <img src="./assets/sponsors/roche.webp" alt="Roche - Doing now what patients need next" title="Roche - Doing now what patients need next"/>
   </div>
 </div>
 
