@@ -144,7 +144,9 @@ header {
 
 /* ---- Contributors ---- */
 @media screen and (max-width: 800px) {
+  .contributors{
 	flex-direction: column;
+  }
 }
 .contributors{
   align-items: center;
